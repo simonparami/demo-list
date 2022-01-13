@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simonparami/demo-list/static/css/main.67598fe1.css",
+    "main.js": "/simonparami/demo-list/static/js/main.aa535b86.js",
+    "index.html": "/simonparami/demo-list/index.html",
+    "main.67598fe1.css.map": "/simonparami/demo-list/static/css/main.67598fe1.css.map",
+    "main.aa535b86.js.map": "/simonparami/demo-list/static/js/main.aa535b86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67598fe1.css",
+    "static/js/main.aa535b86.js"
+  ]
+}
